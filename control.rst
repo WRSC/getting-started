@@ -33,3 +33,7 @@ appropriate licenses).
   C++ code (TODO: brief summary of code structure)
 `Southampton Sailing Robot Team <https://github.com/Maritime-Robotics-Student-Society/sailing-robot>`_
   Python code using the ROS 1.x framework.
+
+If your team has an open source codebase, please add it to the list by
+`opening a pull request <https://github.com/WRSC/getting-started/pulls>`_,
+or send us the details and we can add it.
