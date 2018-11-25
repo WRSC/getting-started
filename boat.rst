@@ -1,6 +1,11 @@
 The boat
 ========
 
+.. image:: figures/boat_minimal_label.png
+   :alt: Diagram of a simple sailing boat
+   :align: right
+   :width: 350px
+
 A standard sailing boat has four main parts:
 
 - **Hull**: Base platform, floats in the water.
@@ -19,6 +24,11 @@ specification that many different models are made to.
 
 Other things to try
 -------------------
+
+.. image:: figures/boat_strangest.png
+   :alt: Boat with wing sail and air rudder
+   :align: right
+   :width: 150px
 
 - *Wing sails* are rigid airfoils rather than a flexible sheet.
   They can be balanced so that changing and holding their position needs little
