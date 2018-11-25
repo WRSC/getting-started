@@ -65,7 +65,7 @@ estimates of direction. Inexpensive 'IMUs' combining gyroscopes, magnetic field
 sensors and accelerometers are readily available. But combining multiple sources
 of data can also make it harder to understand when things go wrong.
 
-Other ideas, of varying practicality:
+Other ideas, some more practical than others:
 
 - Use only a gyroscope, along with knowledge of which way the boat was pointing
   when it was started. Relies on having a gyroscope with low enough drift.
