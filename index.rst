@@ -2,7 +2,7 @@ Getting started with robotic sailing
 ====================================
 
 This is an overview of the steps you need to think about to build a small
-autonomous sailing boat, such as you might need to compete in WRSC.
+autonomous sailing boat, such as you might need to compete in WRSC_.
 We've tried to provide pointers both for how to get something basic to work,
 and other approaches you might consider. Depending on the time, knowledge and
 resources you have available, you can pick which areas to innovate in, and where
@@ -26,3 +26,5 @@ Indices and tables
 
 * :ref:`genindex`
 * :ref:`search`
+
+.. _WRSC: https://www.roboticsailing.org/
