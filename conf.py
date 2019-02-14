@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Robotic Sailing guide'
-copyright = '2018, Thomas Kluyver'
+copyright = '2018, Thomas Kluyver & contributors'
 author = 'Thomas Kluyver'
 
 # The version info for the project you're documenting, acts as replacement for
