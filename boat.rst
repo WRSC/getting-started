@@ -22,6 +22,12 @@ rudder are available for a few hundred euros/dollars/pounds. The *RC laser*
 is one popular model, while the *International One Metre* class is a
 specification that many different models are made to.
 
+.. figure:: _static/images/black-python-viana-small.jpg
+   :alt: A small sailing boat in the water
+
+   The *Black Python*, based on an International One Metre class design,
+   at WRSC 2016 (`larger image <_static/images/black-python-viana.jpg>`__).
+
 Other things to try
 -------------------
 
