@@ -18,6 +18,7 @@ the boat, the electronics, and the control software.
    boat
    electronics
    control
+   resources
 
 
 Indices and tables
