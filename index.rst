@@ -20,6 +20,14 @@ the boat, the electronics, and the control software.
    control
    resources
 
+.. admonition:: Help us improve this guide
+
+    With a free account on GitHub, you can suggest
+    changes to any page by opening an `issue <https://github.com/WRSC/getting-started/issues>`__
+    or even sending a pull request. The URL is:
+
+    https://github.com/WRSC/getting-started
+
 
 Indices and tables
 ==================
