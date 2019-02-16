@@ -49,9 +49,10 @@ Other things to try
 
 - *Wing sails* are rigid airfoils rather than a flexible sheet.
   They can be balanced so that changing and holding their position needs little
-  force.
-- An *air rudder* steers by deflecting air instead of water. Åland sailing
-  robots use this in combination with a free rotating wing sail. (Ref paper)
+  force. Åland sailing robots have used a wing sail controlled by a smaller
+  tail wing, avoiding the need to actively turn the main wing (`2016 paper
+  <https://link.springer.com/chapter/10.1007%2F978-3-319-45453-5_1>`__).
+- An *air rudder* steers by deflecting air instead of water.
 - *Multi-hull* designs, like catamarans and trimarans, have two or more hulls
   side-by-side, with a gap between them. This can help make the boat more
   stable.
