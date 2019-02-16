@@ -29,9 +29,15 @@ specification that many different models are made to.
    at WRSC 2016 (`larger image <_static/images/black-python-viana.jpg>`__).
 
 If you are interested in building a hull, the `MaxiMOOP
-<https://www.sailbot.org/maximoop/>`_ design is freely available.
+<https://www.sailbot.org/maximoop/>`_ design is freely available
+(`files on GitHub <https://github.com/WRSC/reference-design>`__).
 This is designed for robotic sailing, and among other features,
 it has much more space for electronics than most remote controlled boats.
+
+.. figure:: _static/images/maximoop-hull-design.png
+   :alt: 3D hull shape with large keel
+
+   The MaxiMOOP hull design
 
 Other things to try
 -------------------
